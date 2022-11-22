@@ -1,3 +1,8 @@
+/*
+Link to challenge
+https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript
+*/
+
 let array1 = [1,2,3,4];
 let array2 = [2, 3]
 // final value should be [1,3,4]
